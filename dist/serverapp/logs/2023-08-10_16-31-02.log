@@ -1,0 +1,6 @@
+[2023-08-10 16:31:02.579626] Pulling files from 10.2.2.80...
+[2023-08-10 16:33:13.343150] Error pulling files from 10.2.2.80: ssh: connect to host 10.2.2.80 port 22: Connection timed out
+scp: Connection closed
+
+[2023-08-10 16:33:13.343160] Prepping files from 10.2.2.80...
+[2023-08-10 16:33:13.354088] Error prepping files from 10.2.2.80 since it is disconnected. 

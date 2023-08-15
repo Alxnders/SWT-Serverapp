@@ -1,0 +1,3 @@
+src/keys/ssh.key
+src/logs/*
+dist/keys/ssh.key
