@@ -1,6 +1,6 @@
 # ServerApp
 
-This project allows you to seamlessly interact with SWT machines through SSH and SCP for the **SWT webapp**. Below, you'll find instructions on how to set up and use the project effectively.
+This project allows you to seamlessly interact with SWT machines through SSH and SCP for the [**SWT webapp**](https://github.com/Alxnders/SWT-webapp). Below, you'll find instructions on how to set up and use the project effectively.
 
 ## Prerequisites
 
@@ -39,9 +39,9 @@ Alternatively, you can also use the executable located in the /dist/serverapp di
 But you wont be able to use the scp functionnalities of the app.
 
 ## Features
-[Connect To VPN]: Explaination for non-IT people on how to connect to the vpn on a specific ubuntu computer.
-[Pull Files]: Opens a new page where you can select, or manually input, a machine (using its IP on a private VPN Network) add it to a list and then fetch all the data files that are needed to display its data on the Webapp project.
-[Start Webapp Server] : Starts the webapp server. Look into start_webapp.py to modify the path if needed.
+- [Connect To VPN]: Explaination for non-IT people on how to connect to the vpn on a specific ubuntu computer.
+- [Pull Files]: Opens a new page where you can select, or manually input, a machine (using its IP on a private VPN Network) add it to a list and then fetch all the data files that are needed to display its data on the Webapp project.
+- [Start Webapp Server] : Starts the webapp server. Look into start_webapp.py to modify the path if needed.
 
 ## Contact
-Alexander SAUVIGNET [alexander.sauvignet@stockholmwater.com].
+Alexander SAUVIGNET alexander.sauvignet@stockholmwater.com.
