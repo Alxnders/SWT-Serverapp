@@ -1,6 +1,6 @@
 # ServerApp
 
-Welcome to the **Project Name**! This project allows you to seamlessly interact with SWT machines through SSH and SCP for the **SWT webapp.** Below, you'll find instructions on how to set up and use the project effectively.
+This project allows you to seamlessly interact with SWT machines through SSH and SCP for the **SWT webapp**. Below, you'll find instructions on how to set up and use the project effectively.
 
 ## Prerequisites
 
